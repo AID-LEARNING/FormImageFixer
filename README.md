@@ -1,7 +1,7 @@
 # FormImagesFix
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![PowerNukkitX](https://img.shields.io/badge/PowerNukkitX-Supported-brightgreen.svg)](https://powernukkitx.com/)
+[![PowerNukkitX](https://img.shields.io/badge/PowerNukkitX-Supported-brightgreen.svg)](https://powernukkitx.org/)
 
 **FormImagesFix** is a lightweight plugin for **PowerNukkitX** servers that resolves the annoying issue of form button icons (`type: "url"`) taking too long to load or getting stuck indefinitely on the loading animation.
 
