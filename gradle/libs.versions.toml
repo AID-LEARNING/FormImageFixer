@@ -1,0 +1,5 @@
+[versions]
+powernukkitx-server = "3.0.4-SNAPSHOT"
+
+[libraries]
+powernukkitx-server = { module = "org.powernukkitx:server", version.ref = "powernukkitx-server" }

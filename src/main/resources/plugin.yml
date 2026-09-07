@@ -1,0 +1,7 @@
+name: FormImageFixer
+main: dev.senseitarzan.fromimagefixer.Main
+version: "${version}"
+api: "3.0.4"
+load: POSTWORLD
+author: SenseiTarzan
+description: fix render image
