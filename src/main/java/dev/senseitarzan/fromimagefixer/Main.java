@@ -7,6 +7,6 @@ public class Main extends PluginBase {
 
     @Override
     public void onEnable() {
-        this.getServer().getPluginManager().registerEvents(new FromImageFixer(this), this);
+        this.getServer().getPluginManager().registerEvents(new FromImageFixer(this.getServer().getScheduler()), this);
     }
 }
